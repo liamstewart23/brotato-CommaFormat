@@ -1,0 +1,19 @@
+{
+	"name": "CommaFormat",
+	"namespace": "PapiLeem",
+	"version_number": "1.0.0",
+	"description": "Comma format numbers, starting with gold!",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": [
+				"PapiLeem"
+			],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.0.1.3"],
+			"config_defaults": {}
+		}
+	}
+}
